@@ -23,10 +23,3 @@ It is built using **React**, **Vite**, and **Tailwind CSS**.
 - **Lucide Icons**
 
 ---
-
-## 📂 Project Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/pixelpulse.git
